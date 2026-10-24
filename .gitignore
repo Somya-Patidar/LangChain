@@ -1,0 +1,20 @@
+# Python virtual environments
+venv/
+.venv/
+env/
+Models/venv/
+Models/venv/.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Secrets
+.env
+.env.*
+
+# IDE files
+.vscode/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
